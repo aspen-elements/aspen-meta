@@ -1,5 +1,5 @@
 {
-  "name": "unipro-meta",
+  "name": "aspen-meta",
   "description": "Convert any component metadata aware.",
   "main": "unipro-meta.js",
   "dependencies": {
